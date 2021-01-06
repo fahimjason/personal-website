@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Yeon Sung', cursive;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 500;
+    color: gray;
+}
+
+.text-marker{
+    color: #ff8324;
+}
+
+.first-section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+.half-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(180deg, tomato, orange);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.half-section img{
+    width: 100%;
+}
+
+.second-section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.third-section{
+    background-color: hsl(225deg 40% 98%);
+    height: 700px;
+    position: relative;
+}
+
+.third-section h1{
+    text-align: center;
+    padding: 5% 0;
+}
+
+.third-section-main{
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+
+.third-section-part{
+    width: 28%;
+    height: 100%;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+    background-color: white;
+    padding: 1%;
+}
+
+.third-section-part img{
+    width: 100%;
+}
+
+#creative{
+    margin-left: 2.5%;
+}
+#music{
+    margin-left: 2.5%;
+}
+
+.fourth-section{
+    padding: 50px 0;
+}
+
+.fourth-section-main{
+    background-image: url(images/bg-img.png);
+    background-position: center;
+    background-size: cover;
+    width: 60%;
+    height: 200px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+.fourth-section-main h2{
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-bottom: 0;
+    float: left;
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.last-button{
+    margin-top: 9%;
+    margin-right: 10%;
+    float: right;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.fifth-section{
+    height: 450px;
+    text-align: center;
+}
+
+.fifth-section-part{
+    width: 28%;
+    height: 80%S;
+    float: left;
+    margin: 2%;
+    padding: .5%;
+    box-shadow: 3px 3px 9px gray;
+    border-radius: 5px;
+}
+
+.fifth-section-part h3{
+    font-size: 25px;
+}
+
+footer{
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+}
+
+footer a{
+    padding: 0 15px;
+}
+
+footer a{
+    padding: 10px 0;
+}
